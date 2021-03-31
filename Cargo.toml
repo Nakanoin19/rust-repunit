@@ -1,0 +1,15 @@
+[package]
+name = "repunit"
+version = "0.1.0"
+authors = ["Piano Nekomiya <kotone.olin1010@gmail.com>"]
+edition = '2018'
+repository = "https://github.com/nsk-1010/rust-repunit"
+license = "MIT"
+readme = "README.md"
+description = """
+Repunit Generation Library for Rust.
+"""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
