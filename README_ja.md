@@ -18,13 +18,13 @@
 
 ## インストール方法
 
-    $ cargo install --git "https://github.com/nsk-1010/rust-repunit.git" --tag "v0.1.0"
+    $ cargo install repunit
 
 あなたのアプリケーションにこのライブラリを使いたいときは`Cargo.toml`にこの文字列を追加してください。
 
 ```rust
 [dependencies]
-repunit = { git = "https://github.com/nsk-1010/rust-repunit.git", tag = "v0.1.0" }
+repunit
 ```
 
 ## 使い方

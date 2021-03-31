@@ -18,13 +18,13 @@ Repunit Generation Library
 
 ## Installation
 
-    $ cargo install --git "https://github.com/nsk-1010/rust-repunit.git" --tag "v0.1.0"
+    $ cargo install repunit
 
 If you use this in your application, add these lines in `Cargo.toml`:
 
 ```rust
 [dependencies]
-repunit = { git = "https://github.com/nsk-1010/rust-repunit.git", tag = "v0.1.0" }
+repunit
 ```
 
 ## Usage
