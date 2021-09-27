@@ -18,7 +18,7 @@ Repunit Generation Library
 
 ## Installation
 
-    $ cargo install repunit
+This crate is a library, so it can't be installed with `cargo install`.
 
 If you use this in your application, add these lines in `Cargo.toml`:
 
