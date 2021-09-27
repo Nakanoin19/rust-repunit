@@ -1,6 +1,6 @@
 [package]
 name = "repunit"
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Piano Nekomiya <kotone.olin1010@gmail.com>"]
 edition = '2018'
 repository = "https://github.com/nsk-1010/rust-repunit"
